@@ -1,0 +1,99 @@
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.exe
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.deps.json
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.runtimeconfig.json
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.dll
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.pdb
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form1.resources
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form2.resources
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.csproj.GenerateResource.cache
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.AssemblyInfoInputs.cache
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.AssemblyInfo.cs
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.csproj.CoreCompileInputs.cache
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.dll
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\refint\beta isw.dll
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.pdb
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.genruntimeconfig.cache
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\ref\beta isw.dll
+C:\Users\jgonzalezs2001\source\repos\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form3.resources
+E:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.exe
+E:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.deps.json
+E:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.runtimeconfig.json
+E:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.dll
+E:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.pdb
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form1.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form12.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form13.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form2.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form3.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form4.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form5.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form6.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form7.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form8.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Properties.Resources.resources
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.csproj.GenerateResource.cache
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.AssemblyInfoInputs.cache
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.AssemblyInfo.cs
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.csproj.CoreCompileInputs.cache
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.dll
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\refint\beta isw.dll
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.pdb
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.genruntimeconfig.cache
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\ref\beta isw.dll
+E:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form9.resources
+H:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.exe
+H:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.deps.json
+H:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.runtimeconfig.json
+H:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.dll
+H:\PROGRAM\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.pdb
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form1.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form12.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form13.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form2.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form3.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form4.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form5.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form6.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form7.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form8.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form9.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Properties.Resources.resources
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.csproj.GenerateResource.cache
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.AssemblyInfoInputs.cache
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.AssemblyInfo.cs
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.csproj.CoreCompileInputs.cache
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.dll
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\refint\beta isw.dll
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.pdb
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.genruntimeconfig.cache
+H:\PROGRAM\beta isw\beta isw\obj\Debug\net6.0-windows\ref\beta isw.dll
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.exe
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.deps.json
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.runtimeconfig.json
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.dll
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\bin\Debug\net6.0-windows\beta isw.pdb
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form1.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form12.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form13.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form2.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form3.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form4.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form5.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form6.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form7.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form8.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Form9.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta_isw.Properties.Resources.resources
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.csproj.GenerateResource.cache
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.AssemblyInfoInputs.cache
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.AssemblyInfo.cs
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.csproj.CoreCompileInputs.cache
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.dll
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\refint\beta isw.dll
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.pdb
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\beta isw.genruntimeconfig.cache
+C:\Users\gonzo\OneDrive\Escritorio\beta isw\beta isw\obj\Debug\net6.0-windows\ref\beta isw.dll
