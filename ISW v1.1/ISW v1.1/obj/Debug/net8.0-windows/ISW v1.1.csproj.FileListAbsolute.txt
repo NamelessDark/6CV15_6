@@ -1,0 +1,19 @@
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\bin\Debug\net8.0-windows\ISW v1.1.exe
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\bin\Debug\net8.0-windows\ISW v1.1.deps.json
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\bin\Debug\net8.0-windows\ISW v1.1.runtimeconfig.json
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\bin\Debug\net8.0-windows\ISW v1.1.dll
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\bin\Debug\net8.0-windows\ISW v1.1.pdb
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW_v1._1.Form1.resources
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW v1.1.csproj.GenerateResource.cache
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW v1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW v1.1.AssemblyInfoInputs.cache
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW v1.1.AssemblyInfo.cs
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW v1.1.csproj.CoreCompileInputs.cache
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW v1.1.sourcelink.json
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW v1.1.dll
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\refint\ISW v1.1.dll
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW v1.1.pdb
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW v1.1.genruntimeconfig.cache
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ref\ISW v1.1.dll
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW_v1._1.Properties.Resources.resources
+C:\Users\gonzo\Desktop\6CV15_6\ISW v1.1\ISW v1.1\obj\Debug\net8.0-windows\ISW_v1._1.Form2.resources
