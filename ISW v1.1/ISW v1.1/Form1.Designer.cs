@@ -57,22 +57,25 @@
             // 
             // BtnGrupos
             // 
+            BtnGrupos.BackColor = SystemColors.GradientInactiveCaption;
             BtnGrupos.Dock = DockStyle.Top;
             BtnGrupos.FlatAppearance.BorderSize = 0;
             BtnGrupos.FlatAppearance.MouseDownBackColor = Color.White;
             BtnGrupos.FlatAppearance.MouseOverBackColor = Color.FromArgb(128, 0, 64);
             BtnGrupos.FlatStyle = FlatStyle.Flat;
-            BtnGrupos.ForeColor = SystemColors.GradientInactiveCaption;
+            BtnGrupos.ForeColor = SystemColors.ActiveCaptionText;
             BtnGrupos.Location = new Point(0, 270);
             BtnGrupos.Name = "BtnGrupos";
             BtnGrupos.Size = new Size(230, 50);
             BtnGrupos.TabIndex = 2;
             BtnGrupos.Text = "GRUPOS";
             BtnGrupos.TextAlign = ContentAlignment.MiddleLeft;
-            BtnGrupos.UseVisualStyleBackColor = true;
+            BtnGrupos.UseVisualStyleBackColor = false;
+            BtnGrupos.Click += BtnGrupos_Click;
             // 
             // BtnAssis
             // 
+            BtnAssis.BackColor = SystemColors.Highlight;
             BtnAssis.Dock = DockStyle.Top;
             BtnAssis.FlatAppearance.BorderSize = 0;
             BtnAssis.FlatAppearance.MouseDownBackColor = Color.White;
@@ -85,7 +88,8 @@
             BtnAssis.TabIndex = 1;
             BtnAssis.Text = "ASISTENCIA";
             BtnAssis.TextAlign = ContentAlignment.MiddleLeft;
-            BtnAssis.UseVisualStyleBackColor = true;
+            BtnAssis.UseVisualStyleBackColor = false;
+            BtnAssis.Click += BtnAssis_Click;
             // 
             // panel3
             // 
@@ -133,6 +137,8 @@
             // PanelesSecundarios
             // 
             PanelesSecundarios.BackColor = SystemColors.ActiveCaptionText;
+            PanelesSecundarios.BackgroundImage = (Image)resources.GetObject("PanelesSecundarios.BackgroundImage");
+            PanelesSecundarios.BackgroundImageLayout = ImageLayout.Stretch;
             PanelesSecundarios.Dock = DockStyle.Fill;
             PanelesSecundarios.Location = new Point(230, 56);
             PanelesSecundarios.Name = "PanelesSecundarios";

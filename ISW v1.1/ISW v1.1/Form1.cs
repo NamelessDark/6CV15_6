@@ -15,7 +15,7 @@ namespace ISW_v1._1
         }
 
         private Form activeForm = null;
-        private void openMinForms(Form hijo)
+        public void openMinForms(Form hijo)
         {
             if (activeForm != null)
 
@@ -47,6 +47,16 @@ namespace ISW_v1._1
         private void panel3_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void BtnAssis_Click(object sender, EventArgs e)
+        {
+            openMinForms(new Form2());
+        }
+
+        private void BtnGrupos_Click(object sender, EventArgs e)
+        {
+            openMinForms(new Form3());
         }
     }
 }
